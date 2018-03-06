@@ -1,0 +1,50 @@
+/*css*/
+
+h1  {
+	text-align: center;
+
+}
+
+.head{
+ 	
+ 	margin-bottom: 50px;
+}
+
+button{
+
+	height: 50px;
+	margin-bottom: 50px;
+	background-color: darkgrey;
+
+
+}
+
+.gify {
+	color: white;
+	margin-right: 10px;
+
+}
+
+#buttons-view{
+	margin-bottom: 50px;
+}
+
+
+.item{
+	float: left;
+}
+
+
+img{
+	 display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+	margin-right: 25px;
+	margin-bottom: 35px;
+	width: 250px;
+	height: 200;
+	display: inline-block;
+
+}
+
